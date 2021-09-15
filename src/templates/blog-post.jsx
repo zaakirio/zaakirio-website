@@ -1,7 +1,6 @@
 import { graphql } from 'gatsby';
 import moment from 'moment';
 import React from 'react';
-
 import Header from '../components/header';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
@@ -37,13 +36,12 @@ export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     site {
       siteMetadata {
+        siteUrl
         name
         title
         description
         about
-        author
         github
-        linkedin
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {

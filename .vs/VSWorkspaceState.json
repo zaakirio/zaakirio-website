@@ -3,8 +3,12 @@
     "",
     "\\content",
     "\\content\\blog",
-    "\\src"
+    "\\content\\blog\\my-first-blog",
+    "\\src",
+    "\\src\\components\\header",
+    "\\src\\components\\seo",
+    "\\src\\components\\summary-item"
   ],
-  "SelectedNode": "\\gatsby-config.js",
+  "SelectedNode": "\\.gitattributes",
   "PreviewInSolutionExplorer": false
 }
