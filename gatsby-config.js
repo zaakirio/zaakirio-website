@@ -5,13 +5,13 @@ module.exports = {
         // Your Name
         name: 'Zaakir Ally',
         // Main Site Title
-        title: `Zaakir Ally | Infosec Enthusiast`,
+        title: `Zaakir Ally | Software Developer`,
         // Description that goes under your name in main bio
-        description: `An Information Security Blog`,
+        description: ``,
         // Optional: Github account URL
-        github: `https://github.com/rubinkazan`,
+       // github: `https://github.com/rubinkazan`,
         // Content of the About Me section
-        about: `Information Security enthusiast hailing from South Africa. I am currently residing in the United Kingdom working as a software developer.`,
+        about: `Information Security enthusiast hailing from South Africa. I am currently residing in the United Kingdom working as a junior software developer.`,
     },
         plugins: [
             `gatsby-plugin-react-helmet`,

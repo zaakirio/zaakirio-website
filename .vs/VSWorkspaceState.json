@@ -1,14 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content",
-    "\\content\\blog",
-    "\\content\\blog\\my-first-blog",
-    "\\src",
     "\\src\\components\\header",
     "\\src\\components\\seo",
-    "\\src\\components\\summary-item"
+    "\\src\\components\\summary-item",
+    "\\src\\templates"
   ],
-  "SelectedNode": "\\.gitattributes",
+  "SelectedNode": "\\content",
   "PreviewInSolutionExplorer": false
 }
