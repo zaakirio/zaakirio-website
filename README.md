@@ -2,7 +2,7 @@
 # Zaakir | Developer Portfolio
 
 Developer portfolio built with VueJS and Vite.
-Live at: 
+Live at: zaakir.io
 
 
 ## 📦 Run Locally
